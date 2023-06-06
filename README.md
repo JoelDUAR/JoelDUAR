@@ -24,9 +24,7 @@ With a focus on web development and programming, I have experience working with 
 
 <h2 align="center">🌐 Web personal</h2>
 
-<td align="center">
-<a href="https://joelduar.github.io/Portafolio/" target="_blank"> <img align="center" src="./foto.jpg" alt="Portafolio"/> </a>
-</td>
+- [Portafolio](https://joelduar.github.io/Portafolio/)
 
 <br>
 <br>
@@ -42,7 +40,7 @@ On my GitHub profile, you will find a variety of projects I have worked on, from
 - [Rick & Morty](https://github.com/JoelDUAR/rickandMorty): My integrative project on Rick and Morty is a web application that utilizes knowledge gained in front-end, back-end, and database development. The application includes a login form, random and ID-based search for characters, details about each character, the ability to add and remove favorite characters, filters by gender, and sorting by ID. On the back-end, servers were created, routes were configured, and controllers were developed to manage information obtained from the API. Requests were also made to the database and API, and responses were sent with error handling.
 
 
-- [Individual Project](): This individual project called "COUNTRIES" aims to build a Single Page Application using technologies such as React, Redux, Node, Express, and Sequelize. 
+- [Individual Project](): This individual project called "DOGS" aims to build a Single Page Application using technologies such as React, Redux, Node, Express, and Sequelize. 
 
 
 - [JobPortalX](https://github.com/JoelDUAR/JobPortalX): The final project, named "JobPortalX," is a job portal that utilizes technologies such as React, Redux, Node.js, Express, Sequelize, among others. It allows users to search, filter, and sort job listings, authenticate using local or third-party credentials, process secure payments, leave reviews, and store data locally. The project also includes an admin panel and a notification system.
